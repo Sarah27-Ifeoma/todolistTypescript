@@ -48,7 +48,7 @@ Modify index.ts to test different Todo List functionalities.
 🏗️ Project Structure
 
 todo-list/  
-├── src/                 # Source code folder  
+                   
 │   ├── index.ts         # Main TypeScript file  
 ├── dist/                # Compiled JavaScript files  
 ├── package.json         # Project dependencies  
